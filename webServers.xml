@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="98d43fa0-449d-498c-b775-169a62c59987" name="gameover" url="http://www.lumaerodrigo.com.br">
+        <fileTransfer host="45.55.160.102" port="22" privateKey="$USER_HOME$/Desktop/admin_rsa.pub" rootFolder="/var/www/html/gameover" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcG1GmHgfFww4DTlU2Z8tj1dLjo/UczZUgzyHGaTaUjirVuyomZvoc5oW3GxPibwQdFcsQnhsph9W3HNnA/b3xU80eH2yh4EuZxM5YRDQyxezhbW9bTMBDh4CbmsFCUcSPrruwA8dS163/4UOEhHFe2e6ik8dKyDOEigGqruAg6Pu</data>
+  </component>
+</application>

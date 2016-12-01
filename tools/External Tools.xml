@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="phpcs-fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Projects/payleven-br-armoury/vendor/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="--verbose fix &quot;$FileDir$/$FileName$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
