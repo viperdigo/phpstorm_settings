@@ -1,6 +1,6 @@
 <application>
   <component name="CrucibleSettings">
-    <option name="SERVER_URL" value="https://bitbucket.org/paylevenland" />
-    <option name="USERNAME" value="viperdigo@gmail.com" />
+    <option name="SERVER_URL" value="http://macbook-rodrigo.local:8060/" />
+    <option name="USERNAME" value="viperdigo" />
   </component>
 </application>
