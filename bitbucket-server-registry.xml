@@ -1,0 +1,10 @@
+<application>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="c4599679-b241-4c0b-8da9-c39bfe537c9a" baseUri="https://stash.project-tools.santillanatn.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="stash.project-tools.santillanatn.com" port="7999" path="/" uuid="c4599679-b241-4c0b-8da9-c39bfe537c9a" />
+    </lookup>
+  </component>
+</application>

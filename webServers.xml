@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="63b51144-6077-4f8b-afce-95100577079e" name="meucamiseiro" url="http://cloud1230.configrapp.com">
+        <fileTransfer host="cloud1230.configrapp.com" port="22" rootFolder="/srv/meucamiseiro.com.br/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
