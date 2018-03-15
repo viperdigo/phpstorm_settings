@@ -11,5 +11,8 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
   <action id="FileChooser.GotoProject" />
 </keymap>
